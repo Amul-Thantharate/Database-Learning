@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
